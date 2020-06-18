@@ -88,7 +88,9 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "patrick@alphachain.io"
+email = "mbjzkdpe"
+# you can find this code from the formspree page
+
 # phone = "888 888 88 88"
 
 # Address
