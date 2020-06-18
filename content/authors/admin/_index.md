@@ -1,75 +1,47 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Patrick Collins
+role: CEO of Alpha Chain
+avatar_filename: me.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Smart Contract
+    url: ""
+  - name: Alpha Chain
+superuser: true
+authors:
+  - admin
+bio: Alpha Chain CEO, looking to connect the world to with the power of smart
+  contracts!
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Blockchain
+  - GCP
+  - Python
+  - Chainlink
+  - Ethereum
+  - Data
+  - fintech
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon_pack: fab
+    icon: twitter
+    link: https://twitter.com/PatrickAlphaV
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: BS in Computer Science
+      institution: Umass Amherst
+      year: 2014
+email: patrick@alphachain.io
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+Patrick Collins graduated Umass Amherst with his BS in Computer Science in 2016. Since then he has learnt just about as much as he could about data, fintech, and the blockchain space from his time at Alpha Vantage (data vendor), Man Numeric (asset manager), and now helping the Chainlink open sourced project. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Running Chainlink nodes and a data API for crypto, Patrick and the Alpha Chain team are finally doing it!
