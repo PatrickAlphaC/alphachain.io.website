@@ -3,8 +3,8 @@ title: Patrick Collins
 role: CEO of Alpha Chain
 avatar_filename: me.jpg
 organizations:
-  - name: Smart Contract
-    url: ""
+  - name: Chainlink
+    url: "https://chain.link/"
   - name: Alpha Chain
 superuser: true
 authors:
@@ -18,7 +18,7 @@ interests:
   - Chainlink
   - Ethereum
   - Data
-  - fintech
+  - Fintech
 social:
   - icon: envelope
     icon_pack: fas
