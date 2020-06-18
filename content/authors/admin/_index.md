@@ -42,6 +42,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Patrick Collins graduated Umass Amherst with his BS in Computer Science in 2016. Since then he has learnt just about as much as he could about data, fintech, and the blockchain space from his time at Alpha Vantage (data vendor), Man Numeric (asset manager), and now helping the Chainlink open sourced project. 
+
+Patrick Collins graduated Umass Amherst with his BS in Computer Science in 2016. Since then he has learnt just about as much as he could about data, fintech, and the blockchain space from his time at Alpha Vantage (data vendor), Man Numeric (asset manager), and now helping the Chainlink open sourced project.
 
 Running Chainlink nodes and a data API for crypto, Patrick and the Alpha Chain team are finally doing it!
